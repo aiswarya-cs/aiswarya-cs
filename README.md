@@ -32,5 +32,5 @@ I'm a passionate **Frontend Developer** specializing in **React.js**, with hands
 
 ### 📫 You can also reach me at:
 
-<a href="mailto:aiswaryacs34@gmail.com" target="_blank" title="Gmail" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>
+<a href="mailto:itsaiswaryacs@gmail.com" target="_blank" title="Gmail" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>
 
