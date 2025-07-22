@@ -14,7 +14,6 @@ I'm a passionate **Frontend Developer** specializing in **React.js**, with hands
 <a href="#" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="#" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="30" height="30"/></a>
 
----
 
 ### 💡 I’ve also worked with:
 
@@ -24,17 +23,14 @@ I'm a passionate **Frontend Developer** specializing in **React.js**, with hands
 <a href="#" title="TailwindCSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="#" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/></a>
 
----
 
 ### 📝 I post actively on:
 
 <a href="https://www.linkedin.com/in/aiswarya-c-s-32a60a25a" title="LinkedIn" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/aiswarya_c.s___/" title="Instagram" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
 
----
 
 ### 📫 You can also reach me at:
 
 <a href="mailto:aiswaryacs34@gmail.com" target="_blank" title="Gmail" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>
 
----
