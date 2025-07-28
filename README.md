@@ -50,7 +50,7 @@
 
 ## 💼 Experience
 
-**👩🏻‍💻 Junior UI Developer** | *Teknika Solutions*  
+**👩🏻‍💻 Frontend Developer** | *Teknika Solutions*  
 📍 *April 2025 – Present*  
 
 **👩🏻‍💻 Junior Frontend Developer** | *QLeap Business Solutions Pvt Ltd*  
