@@ -8,22 +8,24 @@
   <i>A passionate Frontend Developer focused on building intuitive & accessible UIs</i>
 </p>
 
-
 ## 🌟 About Me
 
 🎯 I specialize in **React.js** and craft clean, responsive, and user-friendly interfaces.
 
-💡 I'm passionate about transforming ideas into interactive digital experiences using modern tools like **Svelte**, **Flutter**, and **TypeScript**.
+💡 I'm passionate about transforming ideas into interactive digital experiences using modern tools like **Svelte**, **Flutter**, **Next.js**, and **TypeScript**.
 
 🛠️ I love writing scalable code, optimizing performance, and staying updated with the latest trends in frontend development.
 
 📚 I'm a self-driven learner and continuously explore new technologies to deliver impactful solutions.
+
+---
 
 ## 🚀 Tech Stack
 
 ### 🔧 Currently Working With:
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -39,12 +41,45 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+---
+
+## 🧠 Skills
+
+`REACT.JS` | `NEXT.JS` | `REDUX` | `JAVASCRIPT` | `TYPESCRIPT`  
+`HTML5` | `CSS3` | `TAILWIND CSS` | `BOOTSTRAP` | `MATERIAL UI`  
+`RESPONSIVE DESIGN` | `API INTEGRATION` | `GIT` | `GITHUB` | `JEST`  
+`JSX` | `CROSS-BROWSER COMPATIBILITY`
+
+---
+
+## 💼 Experience
+
+**👩🏻‍💻 Junior UI Developer** | *Teknika Solutions*  
+📍 *April 2025 – Present*  
+- Built responsive web applications using **SvelteKit**, **Tailwind CSS**, **Flutter**, and **TypeScript**.  
+- Converted Figma designs into pixel-perfect Flutter interfaces.  
+- Contributed to projects like **Qfit** and **Asset Management**.
+
+**👩🏻‍💻 Junior Frontend Developer** | *QLeap Business Solutions Pvt Ltd*  
+📍 *Oct 2024 – Feb 2025*  
+- Developed responsive UIs with **React.js**, **Next.js**, **TypeScript**, **Redux**, and **Tailwind CSS**.  
+- Translated Figma designs into scalable components.  
+- Worked on **MotoXchange**, **QLeap Website**, and **Attendance Management System**.
+
+**👩🏻‍💻 React Frontend Developer Intern** | *Allpro Techlabs*  
+📍 *2024*  
+- Built dynamic interfaces using **React**, **Redux Toolkit**, **HTML**, **CSS**, and **React Bootstrap**.  
+- Implemented **lazy loading** features for better performance.  
+- Used Git for version control and team collaboration.
+
+---
 
 ## 🖥️ Projects
-> Check out some of my featured works:
-- ✨ [Island Days - Lakshadweep Travel Guide](https://github.com/aiswarya-cs/island-days)
-- 🚗 [MotoXchange - Car Evaluation Platform](https://github.com/aiswarya-cs/motoxchange)
 
+✨ [Island Days – Lakshadweep Travel Guide](https://github.com/aiswarya-cs/island-days)  
+🚗 [MotoXchange – Car Evaluation Platform](https://github.com/aiswarya-cs/motoxchange)
+
+---
 
 ## 📝 Let's Connect
 
@@ -52,14 +87,14 @@
 - 📸 [Instagram](https://www.instagram.com/your_instagram_here)
 - 📧 aiswaryacs34@gmail.com
 
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="coding gif" />
 </p>
 
 <p align="center">
   <i>“Code is not just code; it's a story waiting to be experienced.”</i>
 </p>
-
 
 > 💬 *Open to collaboration, learning, and meaningful tech conversations!*
