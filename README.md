@@ -59,19 +59,6 @@
 **👩🏻‍💻 React Frontend Developer Intern** | *Allpro Techlabs*  
 📍 *2024*  
 
-
-## 🖥️ Projects
-
-✨ [Island Days – Lakshadweep Travel Guide](https://github.com/aiswarya-cs/island-days)  
-🚗 [MotoXchange – Car Evaluation Platform](https://github.com/aiswarya-cs/motoxchange)
-
-## github status
-
-<p align="center">
-  <img src="https://github.com/aiswarya-cs-check/aiswarya-cs-check/assets/main/bfef256c-a479-4864-ae6e-982820d2e947.png" alt="GitHub Stats Image" />
-</p>
-
-
 ## 📝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aiswarya-cs)
