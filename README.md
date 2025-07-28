@@ -1,35 +1,65 @@
-## 👋 Hello, I'm Aiswarya C S 👩🏻‍💻
+<!-- Profile Header GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
+</p>
 
-I'm a **Frontend Developer** with a strong passion for crafting intuitive and responsive user interfaces. I specialize in **React.js**, and I also work with modern frameworks like **Svelte**, **Flutter**, and **TypeScript** to build seamless and accessible web experiences.  
-I enjoy transforming design ideas into interactive UIs, optimizing performance, and maintaining clean, scalable code. I’m continuously learning and staying up-to-date with evolving technologies to deliver impactful digital solutions.
-
-
-### 🚀 Currently Working With
-
-<a href="#" title="ReactJS"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="Svelte"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="Flutter"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="TypeScript"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="JavaScript"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="GitHub"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="30" height="30"/></a>
+<h1 align="center">Hey there, I'm Aiswarya C S 👩🏻‍💻</h1>
+<p align="center">
+  <i>A passionate Frontend Developer focused on building intuitive & accessible UIs</i>
+</p>
 
 
-### 🧠 I’ve Also Worked With
+## 🌟 About Me
 
-<a href="#" title="HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="Bootstrap"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="TailwindCSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/></a>
+🎯 I specialize in **React.js** and craft clean, responsive, and user-friendly interfaces.
+
+💡 I'm passionate about transforming ideas into interactive digital experiences using modern tools like **Svelte**, **Flutter**, and **TypeScript**.
+
+🛠️ I love writing scalable code, optimizing performance, and staying updated with the latest trends in frontend development.
+
+📚 I'm a self-driven learner and continuously explore new technologies to deliver impactful solutions.
+
+## 🚀 Tech Stack
+
+### 🔧 Currently Working With:
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🧰 Also Worked With:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 
-### 📝 I Post Actively On
+## 🖥️ Projects
+> Check out some of my featured works:
+- ✨ [Island Days - Lakshadweep Travel Guide](https://github.com/aiswarya-cs/island-days)
+- 🚗 [MotoXchange - Car Evaluation Platform](https://github.com/aiswarya-cs/motoxchange)
 
-<a href="https://www.linkedin.com/in/aiswarya-c-s-32a60a25a" title="LinkedIn" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/aiswarya_c.s___/" title="Instagram" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
+
+## 📝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/aiswarya-cs/)
+- 📸 [Instagram](https://www.instagram.com/your_instagram_here)
+- 📧 aiswaryacs34@gmail.com
 
 
-### 📫 Reach Me At
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
+</p>
 
-<a href="mailto:aiswaryacs34@gmail.com" target="_blank" title="Email" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>
+<p align="center">
+  <i>“Code is not just code; it's a story waiting to be experienced.”</i>
+</p>
+
+
+> 💬 *Open to collaboration, learning, and meaningful tech conversations!*
