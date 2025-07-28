@@ -18,7 +18,6 @@
 
 📚 I'm a self-driven learner and continuously explore new technologies to deliver impactful solutions.
 
----
 
 ## 🚀 Tech Stack
 
@@ -41,53 +40,38 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
 
 ## 🧠 Skills
 
-`REACT.JS` | `NEXT.JS` | `REDUX` | `JAVASCRIPT` | `TYPESCRIPT`  
-`HTML5` | `CSS3` | `TAILWIND CSS` | `BOOTSTRAP` | `MATERIAL UI`  
+`REACT.JS` | `NEXT.JS` | `REDUX` | `JAVASCRIPT` | `TYPESCRIPT` | `FLUTTER` 
+`HTML5` | `CSS3` | `TAILWIND CSS` | `BOOTSTRAP` | `MATERIAL UI`| `SVELTEKIT`   
 `RESPONSIVE DESIGN` | `API INTEGRATION` | `GIT` | `GITHUB` | `JEST`  
 `JSX` | `CROSS-BROWSER COMPATIBILITY`
-
----
 
 ## 💼 Experience
 
 **👩🏻‍💻 Junior UI Developer** | *Teknika Solutions*  
 📍 *April 2025 – Present*  
-- Built responsive web applications using **SvelteKit**, **Tailwind CSS**, **Flutter**, and **TypeScript**.  
-- Converted Figma designs into pixel-perfect Flutter interfaces.  
-- Contributed to projects like **Qfit** and **Asset Management**.
 
 **👩🏻‍💻 Junior Frontend Developer** | *QLeap Business Solutions Pvt Ltd*  
 📍 *Oct 2024 – Feb 2025*  
-- Developed responsive UIs with **React.js**, **Next.js**, **TypeScript**, **Redux**, and **Tailwind CSS**.  
-- Translated Figma designs into scalable components.  
-- Worked on **MotoXchange**, **QLeap Website**, and **Attendance Management System**.
 
 **👩🏻‍💻 React Frontend Developer Intern** | *Allpro Techlabs*  
 📍 *2024*  
-- Built dynamic interfaces using **React**, **Redux Toolkit**, **HTML**, **CSS**, and **React Bootstrap**.  
-- Implemented **lazy loading** features for better performance.  
-- Used Git for version control and team collaboration.
 
----
 
 ## 🖥️ Projects
 
 ✨ [Island Days – Lakshadweep Travel Guide](https://github.com/aiswarya-cs/island-days)  
 🚗 [MotoXchange – Car Evaluation Platform](https://github.com/aiswarya-cs/motoxchange)
 
----
 
 ## 📝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aiswarya-cs/)
-- 📸 [Instagram](https://www.instagram.com/your_instagram_here)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aiswarya-cs)
+- 📸 [Instagram](https://www.instagram.com/aiswarya_c.s___/)
 - 📧 aiswaryacs34@gmail.com
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="coding gif" />
